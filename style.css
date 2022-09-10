@@ -78,12 +78,11 @@ button{
   padding: 5px 153px;
 }
 
-p{
+#error{
   display: none;
   margin: 100px;
   font-weight:bolder;
   padding: 10px 0;
   margin-top: 50px;
   text-align: center;
-  background-color: #839dfb;
 }
